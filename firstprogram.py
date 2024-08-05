@@ -11,4 +11,4 @@ elif Function=='*':
 elif Function=='-':
     output=firstNumber-secondNumber
 
-print(firstNumber+Function+secondNumber+"="+output)
+print(output)
